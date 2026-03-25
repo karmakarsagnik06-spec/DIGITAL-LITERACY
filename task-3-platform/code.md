@@ -1,4 +1,4 @@
-<img width="1161" height="550" alt="image" src="https://github.com/user-attachments/assets/7e1034a4-0865-409e-903e-93cbdc8bcb5e" />**PART A**
+**PART A**
 
 PROBLEM GIVEN BY HACKER RANK TO SOLVE ME FIRST
 
