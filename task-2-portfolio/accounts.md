@@ -11,3 +11,6 @@
 
 
 **Kaggle**
+
+
+<img width="1487" height="868" alt="Screenshot 2026-03-27 000953" src="https://github.com/user-attachments/assets/97070e0a-b549-444c-82b3-bd9c0c2a1c8f" />
